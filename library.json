@@ -1,0 +1,9 @@
+{
+  "name": "led_shift",
+  "version": "1.0.0",
+  "description": "LED shift register driver",
+  "keywords": "led,shift",
+  "repository": { "type": "git", "url": "https://github.com/chenxyon/led_shift.git" },
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}

@@ -1,0 +1,4 @@
+#ifndef LED_SHIFT_VERSION_H
+#define LED_SHIFT_VERSION_H
+#define LED_SHIFT_VERSION_STRING "1.0.0"
+#endif
